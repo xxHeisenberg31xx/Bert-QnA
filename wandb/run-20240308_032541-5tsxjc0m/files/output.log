@@ -1,0 +1,95 @@
+
+############Train############
+Batch 1000 / 10853
+Loss: 0.9
+Batch 2000 / 10853
+Loss: 0.8
+Batch 3000 / 10853
+Loss: 1.7
+Batch 4000 / 10853
+Loss: 1.6
+Batch 5000 / 10853
+Loss: 0.5
+Batch 6000 / 10853
+Loss: 1.0
+Batch 7000 / 10853
+Loss: 0.7
+Batch 8000 / 10853
+Loss: 1.5
+Batch 9000 / 10853
+Loss: 1.0
+Batch 10000 / 10853
+Loss: 1.0
+############Evaluate############
+Batch 1000 / 2538
+Loss: 0.9
+Batch 2000 / 2538
+Loss: 1.1
+-------Epoch  1 -------
+Training Loss: 1.3211335895507004
+Validation Loss: 1.2691993897940768
+Time:  4966.87921833992
+-----------------------
+############Train############
+Batch 1000 / 10853
+Loss: 0.5
+Batch 2000 / 10853
+Loss: 1.6
+Batch 3000 / 10853
+Loss: 0.5
+Batch 4000 / 10853
+Loss: 0.5
+Batch 5000 / 10853
+Loss: 0.8
+Batch 6000 / 10853
+Loss: 0.7
+Batch 7000 / 10853
+Loss: 1.0
+Batch 8000 / 10853
+Loss: 1.1
+Batch 9000 / 10853
+Loss: 0.6
+Batch 10000 / 10853
+Loss: 0.4
+############Evaluate############
+Batch 1000 / 2538
+Loss: 0.7
+Batch 2000 / 2538
+Loss: 2.1
+-------Epoch  2 -------
+Training Loss: 0.8811762352093627
+Validation Loss: 1.158812809603434
+Time:  4966.321142911911
+-----------------------
+############Train############
+Batch 1000 / 10853
+Loss: 0.6
+Batch 2000 / 10853
+Loss: 0.4
+Batch 3000 / 10853
+Loss: 0.5
+Batch 4000 / 10853
+Loss: 0.4
+Batch 5000 / 10853
+Loss: 0.8
+Batch 6000 / 10853
+Loss: 0.3
+Batch 7000 / 10853
+Loss: 0.1
+Batch 8000 / 10853
+Loss: 0.6
+Batch 9000 / 10853
+Loss: 1.4
+Batch 10000 / 10853
+Loss: 0.6
+############Evaluate############
+Batch 1000 / 2538
+Loss: 1.0
+Batch 2000 / 2538
+Loss: 1.2
+-------Epoch  3 -------
+Training Loss: 0.6914276804623627
+Validation Loss: 1.2356131294510313
+Time:  4966.752952337265
+-----------------------
+Total training and evaluation time:  14931.835145950317
